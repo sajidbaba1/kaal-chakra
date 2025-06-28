@@ -21,7 +21,7 @@ export function AppHeader() {
             <Link
               href="/"
               className={cn(
-                'text-sm font-medium text-muted-foreground transition-colors hover:text-primary'
+                'text-sm font-medium text-muted-foreground transition-colors hover:text-accent'
               )}
             >
               Calendar
@@ -31,7 +31,7 @@ export function AppHeader() {
             <Link
               href="/history"
               className={cn(
-                'text-sm font-medium text-muted-foreground transition-colors hover:text-primary'
+                'text-sm font-medium text-muted-foreground transition-colors hover:text-accent'
               )}
             >
               History

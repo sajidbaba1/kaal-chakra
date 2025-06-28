@@ -8,7 +8,7 @@ export default function Home() {
           <h1 className="text-4xl font-bold font-headline mb-2 text-primary tracking-tight">
             The 13-Month Calendar
           </h1>
-          <p className="text-lg text-muted-foreground max-w-3xl mx-auto">
+          <p className="text-lg text-foreground max-w-3xl mx-auto">
             A journey through a different conception of time. The calendar below
             shows a 13-month structure, each with 28 days, plus special year-end
             days.
